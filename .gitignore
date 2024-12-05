@@ -1,0 +1,12 @@
+.vscode/launch.json
+.vscode/settings.json
+target/classes/com/github/f1nnabel/ipo/rgz/DatabaseManager.class
+target/classes/com/github/f1nnabel/ipo/rgz/DataWindow.class
+target/classes/com/github/f1nnabel/ipo/rgz/DataWindow$GraphPanel.class
+target/classes/com/github/f1nnabel/ipo/rgz/Main.class
+target/classes/com/github/f1nnabel/ipo/rgz/MainWindow.class
+target/classes/com/github/f1nnabel/ipo/rgz/RocketControl.class
+target/classes/com/github/f1nnabel/ipo/rgz/RocketController.class
+target/classes/com/github/f1nnabel/ipo/rgz/RocketModel.class
+target/classes/com/github/f1nnabel/ipo/rgz/RocketObserver.class
+target/classes/com/github/f1nnabel/ipo/rgz/SettingsWindow.class
